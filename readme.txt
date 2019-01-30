@@ -28,7 +28,7 @@ This example is for the bootbox alert, for others (confirm, etc ...) just adapt 
 
 
 follows the example in practice
-[https://jsfiddle.net/marsites/tLwo253e/][1]
+https://jsfiddle.net/marsites/tLwo253e/
 
 ====================
 Versão em Português
