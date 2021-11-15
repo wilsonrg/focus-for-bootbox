@@ -45,5 +45,3 @@ function falert(tit,msg,obj){
 Segue o exemplo na prática
 
 https://jsfiddle.net/marsites/tLwo253e/14/
-
-https://stackoverflow.com/questions/21657427/bootbox-prompt-set-focus-on-text-field/54442517#54442517
